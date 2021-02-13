@@ -1,11 +1,11 @@
 # Ultimate-Technologies-Inc.-Take-Home-Challenge
 
 ## Part 1 ‐ Exploratory data analysis
-[Code] (https://github.com/dinqui/Ultimate-Technologies-Inc.-Take-Home-Challenge/blob/main/Ultimate%20Technologies%20Inc.%20Take-Home%20Challenge%20-%20Part%201.ipynb)
+[Code](https://github.com/dinqui/Ultimate-Technologies-Inc.-Take-Home-Challenge/blob/main/Ultimate%20Technologies%20Inc.%20Take-Home%20Challenge%20-%20Part%201.ipynb)
 
 The daily cycle of log-ins shows that the time of day greatly affects the number of user log-ins. The number of log-ins is highest at the very end, beginning, and middle of the day, with a large dip around 7:30 and a smaller dip around 17:00, as shown in the graph below. 
 
-![Plot of daily cycle of log-ins] (https://github.com/dinqui/Ultimate-Technologies-Inc.-Take-Home-Challenge/blob/main/images/time_of_day.png)
+![Plot of daily cycle of log-ins](https://github.com/dinqui/Ultimate-Technologies-Inc.-Take-Home-Challenge/blob/main/images/time_of_day.png)
 
 The weekly cycle of log-ins shows that the day of the week also affects the number of user log-ins. The number of log-ins increases throughout the work week, but peaks on Saturday and Sunday close behind. 
 
